@@ -1,0 +1,780 @@
+{
+  "suggestions": [
+    {
+      "name": "London",
+      "location": {
+        "latitude": 51.508101,
+        "longitude": -0.1270057
+      },
+      "isHotel": false,
+      "categoryName": "Managed Place",
+      "distance": -1.0,
+      "id": 19070349,
+      "zoomLevel": 0
+    },
+    {
+      "name": "London Kings Cross St Pancras",
+      "location": {
+        "latitude": 51.5290753,
+        "longitude": -0.1282097
+      },
+      "isHotel": false,
+      "categoryName": "Managed Place",
+      "distance": -1.0,
+      "id": 19070487,
+      "zoomLevel": 0
+    },
+    {
+      "name": "City \u0026 Tower of London",
+      "location": {
+        "latitude": 51.510129,
+        "longitude": -0.081848
+      },
+      "isHotel": false,
+      "categoryName": "Managed Place",
+      "distance": -1.0,
+      "id": 19070488,
+      "zoomLevel": 0
+    },
+    {
+      "name": "London Covent Garden \u0026 Soho",
+      "location": {
+        "latitude": 51.51078,
+        "longitude": -0.130314
+      },
+      "isHotel": false,
+      "categoryName": "Managed Place",
+      "distance": -1.0,
+      "id": 19070489,
+      "zoomLevel": 0
+    },
+    {
+      "name": "London Westminster - Westminster Abbey",
+      "location": {
+        "latitude": 51.4996,
+        "longitude": -0.131461
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONWAB",
+      "distance": 0.6771507207255508,
+      "id": 18526618,
+      "zoomLevel": 0,
+      "brand": "HUB"
+    },
+    {
+      "name": "London County Hall",
+      "location": {
+        "latitude": 51.501472,
+        "longitude": -0.11876
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONCOU",
+      "distance": 0.7371507207255508,
+      "id": 7472510,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Westminster, St James Park",
+      "location": {
+        "latitude": 51.498974,
+        "longitude": -0.132888
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONWES",
+      "distance": 0.8671507207255508,
+      "id": 18083493,
+      "zoomLevel": 0,
+      "brand": "HUB"
+    },
+    {
+      "name": "London Waterloo (Westminster Bridge)",
+      "location": {
+        "latitude": 51.503186376638,
+        "longitude": -0.115313529968269
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONWAT",
+      "distance": 0.9571507207255509,
+      "id": 7472519,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Covent Garden",
+      "location": {
+        "latitude": 51.5099988,
+        "longitude": -0.1272863
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONSTM",
+      "distance": 1.157150720725551,
+      "id": 11947874,
+      "zoomLevel": 0,
+      "brand": "HUB"
+    },
+    {
+      "name": "London Holborn",
+      "location": {
+        "latitude": 51.520307,
+        "longitude": -0.117116
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONHOL",
+      "distance": 1.1771507207255507,
+      "id": 9904991,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Blackfriars (Fleet Street)",
+      "location": {
+        "latitude": 51.513104,
+        "longitude": -0.105613
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONBLA",
+      "distance": 1.2671507207255508,
+      "id": 69256,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Leicester Square",
+      "location": {
+        "latitude": 51.511143,
+        "longitude": -0.13035
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONLEI",
+      "distance": 1.4371507207255507,
+      "id": 6215624,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Goodge Street",
+      "location": {
+        "latitude": 51.521393,
+        "longitude": -0.134255
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONGOO",
+      "distance": 1.7071507207255507,
+      "id": 17968726,
+      "zoomLevel": 0,
+      "brand": "HUB"
+    },
+    {
+      "name": "London Southwark (Tate Modern)",
+      "location": {
+        "latitude": 51.505292,
+        "longitude": -0.100202
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONSOU",
+      "distance": 1.7471507207255508,
+      "id": 69425,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Victoria",
+      "location": {
+        "latitude": 51.4930608118871,
+        "longitude": -0.142886638641348
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LKEBAR",
+      "distance": 1.7571507207255508,
+      "id": 7472512,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London St Pancras",
+      "location": {
+        "latitude": 51.528677,
+        "longitude": -0.126997
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONSTP",
+      "distance": 1.8471507207255509,
+      "id": 7472520,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Euston",
+      "location": {
+        "latitude": 51.527736,
+        "longitude": -0.129068
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONEUS",
+      "distance": 1.8571507207255509,
+      "id": 69261,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Southwark (Bankside)",
+      "location": {
+        "latitude": 51.506724,
+        "longitude": -0.092649
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "SOUANC",
+      "distance": 1.9371507207255507,
+      "id": 71156,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Farringdon (Smithfield)",
+      "location": {
+        "latitude": 51.517563,
+        "longitude": -0.101662
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONSMI",
+      "distance": 1.9771507207255508,
+      "id": 18881693,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Kings Cross",
+      "location": {
+        "latitude": 51.532001,
+        "longitude": -0.122086
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "KINPTI",
+      "distance": 2.0871507207255506,
+      "id": 7472499,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Bank (Tower)",
+      "location": {
+        "latitude": 51.509607,
+        "longitude": -0.083538
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONMON",
+      "distance": 2.1771507207255505,
+      "id": 6215631,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London - Tower Bridge",
+      "location": {
+        "latitude": 51.509289,
+        "longitude": -0.081265
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONTOL",
+      "distance": 2.3271507207255504,
+      "id": 15652003,
+      "zoomLevel": 0,
+      "brand": "HUB"
+    },
+    {
+      "name": "London Southwark (Borough High St)",
+      "location": {
+        "latitude": 51.504117,
+        "longitude": -0.090984
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONBRD",
+      "distance": 2.3671507207255504,
+      "id": 18077838,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London - Kings Cross",
+      "location": {
+        "latitude": 51.534286,
+        "longitude": -0.121991
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONKIN",
+      "distance": 2.537150720725551,
+      "id": 18332749,
+      "zoomLevel": 0,
+      "brand": "HUB"
+    },
+    {
+      "name": "London City (Aldgate)",
+      "location": {
+        "latitude": 51.5142363,
+        "longitude": -0.0697958
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONALD",
+      "distance": 2.6871507207255507,
+      "id": 11193095,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Tower Bridge",
+      "location": {
+        "latitude": 51.49959827008,
+        "longitude": -0.079001784324644
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONTOW",
+      "distance": 2.6971507207255505,
+      "id": 7658852,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Angel Islington",
+      "location": {
+        "latitude": 51.5349811,
+        "longitude": -0.1056297
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONISL",
+      "distance": 2.6971507207255505,
+      "id": 7472515,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London City (Tower Hill)",
+      "location": {
+        "latitude": 51.5114184188888,
+        "longitude": -0.071971714496604
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONCIT",
+      "distance": 2.7171507207255505,
+      "id": 69257,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London City (Old Street)",
+      "location": {
+        "latitude": 51.527474,
+        "longitude": -0.087636
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONOLD",
+      "distance": 2.767150720725551,
+      "id": 69353,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London - Spitalfields, Brick Lane",
+      "location": {
+        "latitude": 51.519451,
+        "longitude": -0.071673
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONSPI",
+      "distance": 3.0471507207255506,
+      "id": 15651913,
+      "zoomLevel": 0,
+      "brand": "HUB"
+    },
+    {
+      "name": "London Clapham",
+      "location": {
+        "latitude": 51.466476,
+        "longitude": -0.150031
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONCLA",
+      "distance": 3.7771507207255506,
+      "id": 18082079,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Kensington (Earl's Court)",
+      "location": {
+        "latitude": 51.493479,
+        "longitude": -0.190858
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONKEN",
+      "distance": 3.8471507207255504,
+      "id": 69350,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Brixton",
+      "location": {
+        "latitude": 51.461785,
+        "longitude": -0.11462
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONBRI",
+      "distance": 3.8571507207255507,
+      "id": 17541692,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Hackney",
+      "location": {
+        "latitude": 51.546388,
+        "longitude": -0.073741
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONHAC",
+      "distance": 4.06715072072555,
+      "id": 9189112,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Beckton",
+      "location": {
+        "latitude": 51.516141,
+        "longitude": 0.060897
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "BECWIN",
+      "distance": 8.757150720725551,
+      "id": 65590,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Edgware",
+      "location": {
+        "latitude": 51.605478,
+        "longitude": -0.278703
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "EDGPTI",
+      "distance": 10.82715072072555,
+      "id": 67054,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Ilford",
+      "location": {
+        "latitude": 51.576962,
+        "longitude": 0.0447568
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "ILFRED",
+      "distance": 9.97715072072555,
+      "id": 68763,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Hammersmith",
+      "location": {
+        "latitude": 51.493089,
+        "longitude": -0.238527
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONHAM",
+      "distance": 5.667150720725551,
+      "id": 69331,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Stratford",
+      "location": {
+        "latitude": 51.5442533160097,
+        "longitude": -0.01038551330566
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONSTR",
+      "distance": 6.1771507207255505,
+      "id": 69426,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Rainham",
+      "location": {
+        "latitude": 51.505172,
+        "longitude": 0.2260904
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "RAIWIL",
+      "distance": 16.63715072072555,
+      "id": 70788,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Ruislip",
+      "location": {
+        "latitude": 51.57286,
+        "longitude": -0.43144
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "RUIBEE",
+      "distance": 15.947150720725551,
+      "id": 70972,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Chingford",
+      "location": {
+        "latitude": 51.634363,
+        "longitude": 0.016844
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "CHIRAN",
+      "distance": 12.857150720725551,
+      "id": 1479788,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Dagenham",
+      "location": {
+        "latitude": 51.531337,
+        "longitude": 0.148267
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONDAG",
+      "distance": 12.45715072072555,
+      "id": 2103179,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Barking",
+      "location": {
+        "latitude": 51.535072,
+        "longitude": 0.0715156
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "BARPTI",
+      "distance": 9.33715072072555,
+      "id": 6215496,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Greenford",
+      "location": {
+        "latitude": 51.532089,
+        "longitude": -0.321943
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "GREMYL",
+      "distance": 10.47715072072555,
+      "id": 6215589,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Hampstead",
+      "location": {
+        "latitude": 51.551536,
+        "longitude": -0.167209
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONHMP",
+      "distance": 4.237150720725551,
+      "id": 6215619,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Ealing",
+      "location": {
+        "latitude": 51.512673,
+        "longitude": -0.309854
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONEAL",
+      "distance": 8.82715072072555,
+      "id": 6215628,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Enfield",
+      "location": {
+        "latitude": 51.676892,
+        "longitude": -0.021648
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "ENFMTI",
+      "distance": 13.63715072072555,
+      "id": 7472459,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Harrow",
+      "location": {
+        "latitude": 51.582554,
+        "longitude": -0.316924
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "HARTRA",
+      "distance": 12.22715072072555,
+      "id": 7472487,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Greenwich",
+      "location": {
+        "latitude": 51.475189,
+        "longitude": -0.020553
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONGRE",
+      "distance": 5.80715072072555,
+      "id": 7472514,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Richmond",
+      "location": {
+        "latitude": 51.466948,
+        "longitude": -0.291975
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONRIC",
+      "distance": 9.47715072072555,
+      "id": 7472517,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Wandsworth",
+      "location": {
+        "latitude": 51.454603,
+        "longitude": -0.191745
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONWAN",
+      "distance": 5.507150720725551,
+      "id": 9099349,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Edmonton",
+      "location": {
+        "latitude": 51.61348,
+        "longitude": -0.0466
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONEDM",
+      "distance": 9.13715072072555,
+      "id": 10519056,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Brentford",
+      "location": {
+        "latitude": 51.490998,
+        "longitude": -0.303857
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONBRE",
+      "distance": 8.95715072072555,
+      "id": 12183078,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Bexleyheath",
+      "location": {
+        "latitude": 51.455819,
+        "longitude": 0.142854
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONBLE",
+      "distance": 12.857150720725551,
+      "id": 12743112,
+      "zoomLevel": 0,
+      "brand": "PI"
+    },
+    {
+      "name": "London Lewisham",
+      "location": {
+        "latitude": 51.464958,
+        "longitude": -0.010469
+      },
+      "isHotel": true,
+      "categoryName": "Hotel",
+      "hotelId": "LONLEW",
+      "distance": 6.417150720725551,
+      "id": 13293993,
+      "zoomLevel": 0,
+      "brand": "PI"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/g/conductor/v1/fps3/search/?geo_schema=skyscanner&carrier_schema=skyscanner",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{\"market\":\"UK\",\"currency\":\"GBP\",\"locale\":\"en-GB\",\"cabin_class\":\"economy\",\"prefer_directs\":false,\"trip_type\":\"one-way\",\"legs\":[{\"origin\":\"LOND\",\"destination\":\"HYD\",\"date\":\"2018-11-29\"}],\"origin\":{\"id\":\"LOND\",\"name\":\"London\",\"cityId\":\"LOND\",\"cityName\":\"London\",\"countryId\":\"UK\",\"type\":\"City\",\"centroidCoordinates\":[-0.0943465343,51.5041174139]},\"destination\":{\"id\":\"HYD\",\"airportId\":\"HYD\",\"name\":\"Hyderabad\",\"cityId\":\"IHYD\",\"cityName\":\"Hyderabad\",\"countryId\":\"IN\",\"type\":\"Airport\",\"centroidCoordinates\":[78.430281,17.230538]},\"outboundDate\":\"2018-11-29\",\"adults\":1,\"child_ages\":[],\"options\":{\"include_unpriced_itineraries\":true,\"include_mixed_booking_options\":true}}"
+      }
+    ]
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "single_trip_response.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
